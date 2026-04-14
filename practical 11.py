@@ -7,4 +7,3 @@ def my_function():
     print(x)
 
 my_function()
-great("anas")
