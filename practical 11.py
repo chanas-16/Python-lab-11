@@ -1,7 +1,8 @@
 def great(name):
     print(f"Hello, {name}!")
 
-
+def new_feature():
+    print("New Feature")
 
 
 def my_function():
